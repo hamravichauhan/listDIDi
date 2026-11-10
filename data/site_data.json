@@ -1,0 +1,249 @@
+{
+  "admin": {
+    "username": "admin",
+    "salt": "c4a7e9b8f10234a5d89c0b1e2f3a4b5c",
+    "passwordHash": "35ce6c4be06cd1d2540481daa12c3716b92e6e139cf65c5dbf0d8560b6abff61cd4cf47d3ba2a5b44332daee7528d27f2d759014a5d1c90e20496ba14f6ccfd1"
+  },
+  "tokens": {
+    "44463da4efd01f868777e20381faaa6fccef07acd24d9ca5726f18df6fec142f": {
+      "username": "admin",
+      "expiresAt": 1795536965513
+    },
+    "35540e4a818f9340b95144ffa206377c5378e94c45cfb854db0189ad3607c466": {
+      "username": "admin",
+      "expiresAt": 1795537309870
+    },
+    "139c42998192c5409f80568a5d046ecdb0cf5fce5c5f9275b4d9bd4eb03161a6": {
+      "username": "admin",
+      "expiresAt": 1795541006207
+    },
+    "c97254a7ce61f0cce3e051e6e61660a065b2dc4388b5b92330cc794e51ab8393": {
+      "username": "admin",
+      "expiresAt": 1795542934612
+    }
+  },
+  "profile": {
+    "name": "Rekha Devi Chauhan",
+    "credentials": "M.Sc. Psychology · Counselling Psychologist",
+    "title": "Counselling Psychologist & Behavioural Therapist",
+    "photo": "/rekha.jpg",
+    "bioParagraphs": [
+      "I’m a counselling psychologist who offers a compassionate, patient-centred space where you can speak openly and feel truly heard. My work is grounded in empathy, curiosity, and respect for your lived experience.",
+      "I have experience supporting neurodivergent individuals—including people with ASD, ADHD, and Down Syndrome—and understand that there is no single “right” way to learn, communicate, or grow.",
+      "Our sessions move at a pace that feels comfortable for you, with space for silence, questions, and whatever you need to bring."
+    ],
+    "philosophy": "Every individual has the potential to learn and grow at their own pace.",
+    "philosophySubtext": "Therapy is not about changing who you are. It is about creating enough safety to understand yourself, discover what supports you, and make room for growth that feels authentic.",
+    "languages": [
+      "English",
+      "Hindi",
+      "Konkani"
+    ]
+  },
+  "hero": {
+    "eyebrow": "A gentle space for your mind",
+    "headline": "A space to be heard.\nA place to grow.",
+    "intro": "Hi, I’m Rekha Devi Chauhan. I provide a safe, empathetic space for your mental health journey—with zero judgment.",
+    "quote": "A calm corner to simply be.",
+    "trustTitle": "You don’t have to have it all figured out.",
+    "trustSubtext": "We can begin exactly where you are."
+  },
+  "contact": {
+    "email": "listeningkorner.in@gmail.com",
+    "phone": "+91 4677 6914",
+    "whatsapp": "9146776914",
+    "instagram": "@listeningkorner",
+    "instagramUrl": "https://instagram.com/listeningkorner",
+    "location": "Mapuca, Goa · Online across India",
+    "mode": "Online · Google Meet"
+  },
+  "pricing": [
+    {
+      "id": "intro",
+      "type": "Individual Therapy",
+      "name": "Introductory",
+      "price": "200",
+      "duration": "45 minutes",
+      "description": "A gentle first conversation to understand what you need.",
+      "featured": false
+    },
+    {
+      "id": "standard",
+      "type": "Individual Therapy",
+      "name": "Standard",
+      "price": "600",
+      "duration": "45 minutes",
+      "description": "Ongoing support with space to reflect, process, and grow.",
+      "featured": true
+    },
+    {
+      "id": "extended",
+      "type": "Individual Therapy",
+      "name": "Extended",
+      "price": "700",
+      "duration": "60 minutes",
+      "description": "A little more room for deeper processing when you need it.",
+      "featured": false
+    }
+  ],
+  "pricingNote": "If cost is a barrier, please reach out. We can have an open conversation about what may be possible.",
+  "faqs": [
+    {
+      "id": "faq-1",
+      "q": "How do online sessions work?",
+      "a": "After booking, you’ll receive a private Google Meet link by email or WhatsApp. At your session time, simply join from a quiet place where you feel comfortable."
+    },
+    {
+      "id": "faq-2",
+      "q": "What happens in the first session?",
+      "a": "The first session is a gentle conversation about what brings you to therapy, what support might feel useful, and any questions you have. There is no pressure to share everything at once."
+    },
+    {
+      "id": "faq-3",
+      "q": "Do I need to prepare anything?",
+      "a": "Not at all. You can arrive exactly as you are. If it helps, you may note down anything you would like to talk about, but this is completely optional."
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1794333926598-382",
+      "name": "Pooja Hegde",
+      "age": "24",
+      "location": "Mumbai, Maharashtra",
+      "email": "pooja@example.com",
+      "phone": "+91 99880 11223",
+      "sessionMode": "online - video / audio call",
+      "seekingFor": "self",
+      "otherClientDetails": "",
+      "preferredTherapist": "Rekha Devi Chauhan",
+      "issues": [],
+      "suitableTiming": "Evening (after 6.00 pm)",
+      "suitableDays": "Weekends",
+      "supportType": "General Enquiry",
+      "message": "Need guidance on dealing with exam anxiety and sleep issues.",
+      "status": "new",
+      "createdAt": "2026-11-10T18:05:26.599Z"
+    },
+    {
+      "id": "inq-1794333065342-947",
+      "name": "Aarav Sharma",
+      "age": "26",
+      "location": "Bengaluru, Karnataka",
+      "email": "aarav@example.com",
+      "phone": "+91 98450 12345",
+      "sessionMode": "online - video / audio call",
+      "seekingFor": "self",
+      "otherClientDetails": "",
+      "preferredTherapist": "Comfortable with any",
+      "issues": [],
+      "suitableTiming": "Evening (after 6.00 pm)",
+      "suitableDays": "Weekdays",
+      "supportType": "General Enquiry",
+      "message": "Feeling overwhelmed with work stress and looking for support to manage anxiety.",
+      "status": "new",
+      "createdAt": "2026-11-10T17:51:05.342Z"
+    },
+    {
+      "id": "inq-1794332103764-34",
+      "name": "Kavya Patel",
+      "age": "28",
+      "location": "Pune, Maharashtra",
+      "email": "kavya@example.com",
+      "phone": "+91 99887 76655",
+      "sessionMode": "online - video / audio call",
+      "seekingFor": "self",
+      "otherClientDetails": "",
+      "preferredTherapist": "Tanvi Shinde",
+      "issues": [
+        "Anxiety/Depression/anger issues/mood problems",
+        "Relationship issues",
+        "Stress Management"
+      ],
+      "suitableTiming": "2.00 pm to 4.00 pm",
+      "suitableDays": "Weekends",
+      "supportType": "Tanvi Shinde (online - video / audio call)",
+      "message": "Interested in starting CBT sessions on weekends for anxiety management.",
+      "status": "new",
+      "createdAt": "2026-11-10T17:35:03.764Z"
+    },
+    {
+      "id": "inq-1794327360834-58",
+      "name": "Priya Nair",
+      "email": "priya@example.com",
+      "phone": "+91 9123456789",
+      "supportType": "Standard Session (₹600)",
+      "message": "Looking for counselling support regarding life transition.",
+      "preferredTime": "",
+      "status": "new",
+      "createdAt": "2026-11-10T16:16:00.834Z"
+    },
+    {
+      "id": "inq-sample-1",
+      "name": "Ananya Sharma",
+      "email": "ananya.s@example.com",
+      "phone": "+91 98765 43210",
+      "supportType": "Introductory (₹200)",
+      "message": "Hello Rekha, I’ve been feeling overwhelmed with work burnout and anxiety recently. I would love to schedule an introductory session on a weekday evening.",
+      "status": "new",
+      "createdAt": "2026-11-10T12:15:50.801Z"
+    }
+  ],
+  "team": [
+    {
+      "id": "rekha",
+      "name": "Rekha Devi Chauhan",
+      "role": "Lead Counselling Psychologist & Behavioural Therapist",
+      "photo": "/rekha.jpg",
+      "qualification": "M.Sc. Psychology",
+      "expertise": "Anxiety, Neurodivergent support (ASD/ADHD/Down Syndrome), Emotional regulation, Self-growth",
+      "approach": "Client-centred, Trauma-informed, Compassionate, Gentle pace"
+    },
+    {
+      "id": "tanvi",
+      "name": "Tanvi Shinde",
+      "role": "Founder & Psychologist",
+      "photo": "/tanvi.png",
+      "qualification": "Master's in Clinical Psychology",
+      "expertise": "Clinical concerns, Relationships, Self-growth",
+      "approach": "CBT, DBT, Client-centered, Insight-oriented"
+    },
+    {
+      "id": "anjali",
+      "name": "Anjali Salani",
+      "role": "Psychologist",
+      "photo": "/anjali.png",
+      "qualification": "BA Psychology, MA Forensic Psychology, PG Counselling",
+      "expertise": "Individual & child counselling, Emotional concerns, Trauma healing",
+      "approach": "REBT + Play Therapy, Thoughts-emotion-behaviour focus"
+    },
+    {
+      "id": "ira",
+      "name": "Ira Joshi",
+      "role": "Psychologist",
+      "photo": "/ira.png",
+      "qualification": "Master's in Clinical Psychology",
+      "expertise": "Clinical concerns, Emotional wellbeing, Counselling, Relationship issues",
+      "approach": "REBT, CBT, Supportive, Integrative, Client-focused therapy"
+    },
+    {
+      "id": "mansi",
+      "name": "Mansi Gosavi",
+      "role": "Psychologist | Expressive Movement Therapy",
+      "photo": "/mansi.png",
+      "qualification": "Master's in Clinical Psychology, Expressive Movement Therapy Trainee",
+      "expertise": "Clinical concerns, Emotional expression, Trauma healing, Relationship issues",
+      "approach": "Movement-based therapy + CBT + Expressive arts"
+    }
+  ],
+  "feeStructure": {
+    "india": {
+      "individual": "₹800 / 60 mins",
+      "couple": "₹1000 / 60 mins"
+    },
+    "international": {
+      "individual": "₹1000 / 60 mins",
+      "couple": "₹1500 / 60 mins"
+    },
+    "note": "Extra charges if session exceeds beyond 60 mins"
+  }
+}

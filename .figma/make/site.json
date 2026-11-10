@@ -1,0 +1,11 @@
+{
+  "title": "Listening Korner | Online Counselling & Therapy",
+  "description": "A calm, trauma-informed therapy website where individuals and families can learn about Rekha’s approach, explore sessions and pricing, and book support.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
