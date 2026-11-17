@@ -12,6 +12,7 @@ import {
   submitInquiry,
 } from "./api";
 import { AdminPortal } from "./Admin";
+import rekhaPhoto from "./assets/rekha.jpg";
 
 type Page = "home" | "about" | "approach" | "sessions" | "contact" | "admin";
 
@@ -269,10 +270,10 @@ function Home({ profile, hero }: { profile: ProfileData; hero: HeroData }) {
           <div className="hero-image-wrap reveal">
             <div className="organic-backdrop" />
             <img
-              src={profile.photo || "/rekha.jpg"}
+              src={profile.photo && profile.photo !== "/rekha.jpg" ? profile.photo : rekhaPhoto}
               alt={`${profile.name}, Counselling Psychologist`}
               onError={(e) => {
-                (e.target as HTMLImageElement).src = "/rekha.jpg";
+                (e.target as HTMLImageElement).src = rekhaPhoto;
               }}
             />
             <div className="image-note">
@@ -361,10 +362,10 @@ function About({ profile }: { profile: ProfileData }) {
           <div className="portrait-large reveal">
             <div className="portrait-arch">
               <img
-                src={profile.photo || "/rekha.jpg"}
+                src={profile.photo && profile.photo !== "/rekha.jpg" ? profile.photo : rekhaPhoto}
                 alt={`${profile.name} in warm natural light`}
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = "/rekha.jpg";
+                  (e.target as HTMLImageElement).src = rekhaPhoto;
                 }}
               />
             </div>
